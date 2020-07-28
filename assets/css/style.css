@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ecf4ff;
+}
+
+header {
+    display: inline;
+    text-align: center;
+}
+
+header .jumbotron {
+    font-size: 20px;
+    padding: 60px;
+    text-align: center;
+    color: white;
+    background-color: #00a6ff;
+}
+
+h2 {
+    color: #00a6ff;
+}
+
+main {
+	padding: 20px;
+	overflow: auto;
+}
+
+#content {
+    float: left;
+    width: 75%;
+}
+
+.rounded {
+    border-radius: 50%;
+}
+
+.card {
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
