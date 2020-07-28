@@ -21,6 +21,26 @@ header .jumbotron {
     background-color: #00a6ff;
 }
 
+header nav {
+	top: 0;
+    padding: 5px;
+	position: sticky;
+    background-color: #027abb;
+}
+
+header nav li {
+    display: inline;
+	list-style-type: none;
+	margin-right: 20px;
+}
+
+header nav a {
+    font-size: 18px;
+	font-weight: 400;
+	text-decoration: none;
+	color: white;
+}
+
 main {
 	padding: 20px;
 	overflow: auto;
