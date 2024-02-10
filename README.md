@@ -20,6 +20,8 @@ Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerj
 #### Berikut sketsa dari struktur website yang bisa dijadikan referensi untuk mengerjakan submission, namun tidak diwajibkan asalkan memenuhi kriteria submission:
 <img src="https://dicodingacademy.blob.core.windows.net/academies/201912201353083e09e5a62ad3d25699611878328847ee.png">
 
+---
+
 ## Harap diperhatikan!
 Bagi teman-teman yang masih mengikuti kelas dari dicoding, [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123). Silahkan gunakan source ini sebagai bahan referensi, tapi TIDAK untuk disalin secara utuh tanpa tau cara implementasinya.
 
